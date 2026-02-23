@@ -1,0 +1,15 @@
+{
+  "name": "news8-server",
+  "version": "1.0.0",
+  "description": "Backend API for the News8 Windows Phone App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
